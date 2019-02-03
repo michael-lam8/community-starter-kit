@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Welcome to the repository!"
+"We welcome your contributions!"
+"Don't be afraid to contribute!"
